@@ -1,4 +1,4 @@
-package BTTH;
+package BTTH1;
 
 import java.util.Random;
 
